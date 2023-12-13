@@ -13,3 +13,5 @@ executed by his nine comrades, often by stoning, clubbing, or stabbing.
 This program that will simulate the decimation of a population.
 In our simulation, we will let the user decide the amount
 to reduce the population by.
+
+You will need to download the Java ZIP file and open it using a Java IDE such as eclipse.
